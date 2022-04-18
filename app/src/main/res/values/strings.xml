@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab 05 - Notes Omelko</string>
+    <string name="btndelete">Delete</string>
+    <string name="btnedit">Edit</string>
+    <string name="btnadd">Add</string>
+    <string name="btncancel">Cancel</string>
+    <string name="btnsave">Save</string>
+    <string name="btnok">Ok</string>
+    <string name="tvNamenote">Name</string>
+    <string name="tvContentnote">Content</string>
+    <string name="text_exit_message">Are you sure?</string>
+</resources>
